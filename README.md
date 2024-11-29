@@ -2,7 +2,6 @@
 
 **Donezo** is a simple yet effective to-do list application that helps you organize and manage your daily tasks. Whether you're tracking work assignments, personal goals, or errands, Donezo ensures that you never forget important tasks again.
 
-![Donezo App Preview](path-to-your-image.png)
 
 ## Features
 
@@ -24,8 +23,8 @@
 
 Here are some screenshots of the app:
 
-![Screenshot 1](path-to-image1.png)
-![Screenshot 2](path-to-image2.png)
+![Screenshot 1](https://postimg.cc/s141ynXR)
+![Screenshot 2](https://postimg.cc/7fPhLgGJ)
 
 ## Installation
 
