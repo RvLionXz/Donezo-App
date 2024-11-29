@@ -23,8 +23,8 @@
 
 Here are some screenshots of the app:
 
-![Screenshot 1](https://postimg.cc/s141ynXR)
-![Screenshot 2](https://postimg.cc/7fPhLgGJ)
+![Screenshot 1](https://i.postimg.cc/pXzFqCPC/i-Phone-13-PRO-localhost.png)
+![Screenshot 2](https://i.postimg.cc/MZhB7NJX/i-Phone-13-PRO-localhost-1.png)
 
 ## Installation
 
